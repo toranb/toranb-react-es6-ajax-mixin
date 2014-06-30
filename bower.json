@@ -1,0 +1,22 @@
+{
+  "name": "toranb-react-es6-ajax-mixin",
+  "version": "0.2.0",
+  "homepage": "https://github.com/toranb/toranb-react-es6-ajax-mixin",
+  "authors": [
+    "Toran Billups <toranb@gmail.com>"
+  ],
+  "description": "a simple ajax mixin for my es6 jspm demo",
+  "main": "main.js",
+  "dependencies": {
+      "toranb-react-es6-promise-mixin": "*"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
